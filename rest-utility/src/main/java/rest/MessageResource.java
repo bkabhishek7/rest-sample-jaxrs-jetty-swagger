@@ -15,7 +15,7 @@ import io.swagger.annotations.ApiResponses;
 
 
 @Path("/hello")
-@Produces(MediaType.APPLICATION_JSON)
+@Produces(MediaType.TEXT_PLAIN)
 @Api(value = "hello", description = "Endpoint for Hello specific operations")
 public class MessageResource {
 
