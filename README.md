@@ -1,4 +1,4 @@
-# rest-sample-jaxrs-jetty-swagger
+# rest-jaxrs-jetty-swagger
 
 This is a restful web services sample with jax-rs, Embedded jetty and swagger (without web.xml) for beginners (java developers). Follow the following steps to run the project.
 
